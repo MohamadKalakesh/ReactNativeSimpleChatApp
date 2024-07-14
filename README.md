@@ -5,3 +5,5 @@
 - npx tailwindcss init
 - copy content and presets + add components to content "./components/**/*.{js,jsx,ts,tsx}"
 - npx expo customize metro.config.js
+- npm install react-native-responsive-screen --save
+- npm i @expo/vector-icons
