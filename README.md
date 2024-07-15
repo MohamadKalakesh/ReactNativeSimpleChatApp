@@ -7,3 +7,4 @@
 - npx expo customize metro.config.js
 - npm install react-native-responsive-screen --save
 - npm i @expo/vector-icons
+- npm i lottie-react-native@5.0.1
