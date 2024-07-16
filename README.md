@@ -8,3 +8,5 @@
 - npm install react-native-responsive-screen --save
 - npm i @expo/vector-icons
 - npm i lottie-react-native@5.0.1
+- npm install firebase
+- npm i @react-native-async-storage/async-storage
