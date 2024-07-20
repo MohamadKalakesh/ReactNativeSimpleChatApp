@@ -13,7 +13,7 @@ export default function Home() {
 
   return (
     <View>
-      <Text>Home</Text>
+      <Text>Hello {user.username}</Text>
       <Pressable onPress={handleLogout}>
         <Text>Sign Out</Text>
       </Pressable>
