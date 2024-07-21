@@ -11,3 +11,4 @@
 - npm install firebase
 - npm i @react-native-async-storage/async-storage
 - npx expo install expo-image
+- npm i react-native-popup-menu
