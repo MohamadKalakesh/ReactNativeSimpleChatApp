@@ -10,3 +10,4 @@
 - npm i lottie-react-native@5.0.1
 - npm install firebase
 - npm i @react-native-async-storage/async-storage
+- npx expo install expo-image
