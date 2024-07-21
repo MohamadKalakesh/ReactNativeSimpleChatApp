@@ -12,7 +12,7 @@ export default function Home() {
   console.log(user);
 
   return (
-    <View>
+    <View className="flex-1 bg-white">
       <Text>Hello {user.username}</Text>
       <Pressable onPress={handleLogout}>
         <Text>Sign Out</Text>
