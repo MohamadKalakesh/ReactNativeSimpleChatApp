@@ -8,6 +8,7 @@ import { getFirestore, collection } from "firebase/firestore";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
+  apiKey: "AIzaSyBwYGNdIz64USqso7zbDfb6jbByc6TjfgM",
   authDomain: "reactnativesimplechatapp.firebaseapp.com",
   projectId: "reactnativesimplechatapp",
   storageBucket: "reactnativesimplechatapp.appspot.com",
